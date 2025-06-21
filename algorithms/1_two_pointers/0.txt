@@ -1,0 +1,10 @@
+Two Pointers
+
+When to use:
+- Searching for pairs or triplets in *sorted* array
+- Removing elements in-place in an array
+- Merging sorted list
+
+Techniques:
+- Searching from the start - end
+- Searching in same direction with two indexes

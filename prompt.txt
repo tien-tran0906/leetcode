@@ -1,0 +1,9 @@
+Please write a step by step explanation to solve the problem below. 
+The explanation will be use as a hint for later practice of this problem, 
+so the explanation should not lead directly to the problem, it should be 
+vague but still give the user a hint of what to do when trying to solve 
+this problem later. Please make sure to give the user the 5 most important 
+hints. Please give your explanation in markdown format and starts with a dash 
+'- ' before each hint. Please use don't use any corporate jargon:
+
+

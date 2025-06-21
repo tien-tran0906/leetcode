@@ -1,0 +1,4 @@
+Sliding Window
+
+When to use:
+- Finding the longest/shortest/sum of substring or subarray
